@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: e4bebde909eaba044951ba7b3959fb0d
+  m_SerializeEntries:
+  - m_GUID: 048a1a34bd3261c4b80920a5ccf59ae5
+    m_Address: Assets/Prefabs/ItemInfoDisplay2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d013fc00e69aeda43895ad04682cb858
+    m_Address: Assets/Prefabs/ItemInfoDisplay.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9119e67c586785409b121b0b6a488f8
+    m_Address: Assets/Prefabs/ItemInfoDisplay 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 13c1d8ca2e776d44fb0cd9e746d83f48, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bd5826a937cde9f4c81210abd9bf8fd9, type: 2}
+    - {fileID: 11400000, guid: 9659258add2528a48834923cc007137d, type: 2}
